@@ -1,0 +1,73 @@
+body {
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+}
+.container {
+  width: 500px;
+  margin: 0px auto;
+  border: 3px solid #000;
+  padding: 45px;
+  background-color: #f3f3f3;
+}
+
+hr {
+  border: 1.3px solid #000;
+  width: 450px;
+  margin-left: 0px;
+}
+
+.address {
+  margin: 3px;
+}
+
+.job-title {
+  margin-top: -8px;
+  color: rgb(3, 194, 3);
+}
+
+.skills-header {
+  margin-top: 19px;
+  color: rgb(3, 194, 3);
+}
+.skills {
+  margin-top: -10px;
+}
+
+.education-header {
+  margin-top: 21px;
+  margin-bottom: 22px;
+  color: rgb(3, 194, 3);
+}
+
+.Location {
+  margin-top: -12px;
+  font-size: 18px;
+  color: rgb(8, 102, 242);
+}
+.Month {
+  margin-top: -12px;
+}
+.Description {
+  margin-top: -12px;
+}
+
+.experience-header {
+  margin-top: 19px;
+  margin-bottom: 27px;
+}
+
+.lists {
+  margin-bottom: 20px;
+  margin-top: -6px;
+  margin-left: -20px;
+}
+
+.footer {
+  margin-top: 21px;
+  color: rgb(3, 194, 3);
+}
+
+.footer-links {
+  margin-top: -12px;
+}
